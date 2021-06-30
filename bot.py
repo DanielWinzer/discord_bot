@@ -350,6 +350,6 @@ print(prices)
 """
 
 #client.run(os.getenv("DISCORD_TOKEN"))
-client.run("ODE5NTI5MDEwMDM1MTYzMTU2.YEn73g.T8OnyGRraHVIljMBtyoK9pod7Uw")
+client.run("TOKEN")
 
 #credits for the music part: https://github.com/RK-Coding/Videos/blob/master/rkcodingmusic.py
